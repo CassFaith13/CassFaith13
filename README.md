@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CassFaith13
+- 👋 Hi, I’m Cassandra.
 - 
 - 👀 I’m interested in XR and using coding to help make a more accessible world for everyone.
 - 
