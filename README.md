@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in XR and using coding to help make a more accessible world for everyone.
 - 
-- 🌱 I’m currently learning c#!
+- 🌱 I’m currently learning SQL!
 - 
 - 💞️ I’m looking to collaborate on passion projects.
 - 
