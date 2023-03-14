@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cassandra.
 - 
-- 👀 I’m interested in XR, machine learning and using coding to help make a more accessible and inclusive world for everyone.
+- 👀 I’m interested in XR, machine learning and using coding to help make technology more accessible and inclusive for everyone.
 - 
 - 🌱 I’m currently learning Blazor!
 - 
