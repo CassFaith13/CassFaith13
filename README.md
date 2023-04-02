@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in XR, machine learning and using coding to help make technology more accessible and inclusive for everyone.
 - 
-- 🌱 I’m currently learning Blazor!
+- 🌱 I’m currently learning Python!
 - 
 - 💞️ I’m looking to collaborate on passion projects.
 - 
