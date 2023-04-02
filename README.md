@@ -6,7 +6,6 @@
 - 
 - 💞️ I’m looking to collaborate on passion projects. I have long term goals in XR, machine learning and using coding to help make technology more    accessible and inclusive for everyone.
 - 
-- 
 - 📫 How to reach me: https://www.linkedin.com/in/cassandrafaith13/!
 
 <!---
